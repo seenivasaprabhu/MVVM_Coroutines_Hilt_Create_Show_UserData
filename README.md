@@ -30,7 +30,7 @@ MVVM
 * Offline Data View
 * Repository
 * Server to database
-database to view
-Network Monitor
-Type Conversion
-Generics Patterns
+* database to view
+* Network Monitor
+* Type Conversion
+* Generics Patterns
