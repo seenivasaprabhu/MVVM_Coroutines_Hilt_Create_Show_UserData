@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="border_color">#f6f5fa</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#2A293B</color>
+    <color name="colorPrimaryDark">#2A293B</color>
+    <color name="gray">#808080</color>
+    <color name="green">#3CB043</color>
+    <color name="header_color">#2A293B</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="layout400dp">400dp</dimen>
+    <dimen name="txt100dp">100dp</dimen>
+    <dimen name="txt10dp">10dp</dimen>
+    <dimen name="txt110dp">110dp</dimen>
+    <dimen name="txt115dp">115dp</dimen>
+    <dimen name="txt16dp">16dp</dimen>
+    <dimen name="txt16sp">16sp</dimen>
+    <dimen name="txt20dp">20dp</dimen>
+    <dimen name="txt20sp">20sp</dimen>
+    <dimen name="txt2dp">2dp</dimen>
+    <dimen name="txt5dp">5dp</dimen>
+    <string name="app_bar">User List</string>
+    <string name="app_name">Disys</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="no_data">-</string>
+    <string name="no_internet">You are in offline</string>
+    <string name="status_active">active</string>
+    <string name="status_inactive">inactive</string>
+    <string name="user_name">Seenu</string>
+    <style name="Base.Theme.Disys" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Disys" parent="Base.Theme.Disys"/>
+    <style name="ToolbarTheme" parent="ThemeOverlay.MaterialComponents.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">#EEEEEE</item>
+    </style>
+</resources>

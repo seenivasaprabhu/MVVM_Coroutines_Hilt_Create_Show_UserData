@@ -1,0 +1,9 @@
+com.seenu.disys.test.app-annotation-experimental-1.3.0-0 /Users/rajchristhu/.gradle/caches/transforms-3/87c1b6f50684b71639a91bbf18fa2b03/transformed/annotation-experimental-1.3.0/res
+com.seenu.disys.test.app-core-1.5.0-1 /Users/rajchristhu/.gradle/caches/transforms-3/88ef36236c6a6fb422316ada5da7d76c/transformed/core-1.5.0/res
+com.seenu.disys.test.app-androidTest-2 /Users/rajchristhu/Documents/Mvvm_Retrofit_Coroutins_Room_Disys/app/build/generated/res/resValues/androidTest/debug
+com.seenu.disys.test.app-androidTest-3 /Users/rajchristhu/Documents/Mvvm_Retrofit_Coroutins_Room_Disys/app/build/generated/res/rs/androidTest/debug
+com.seenu.disys.test.app-mergeDebugAndroidTestResources-4 /Users/rajchristhu/Documents/Mvvm_Retrofit_Coroutins_Room_Disys/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.seenu.disys.test.app-mergeDebugAndroidTestResources-5 /Users/rajchristhu/Documents/Mvvm_Retrofit_Coroutins_Room_Disys/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.seenu.disys.test.app-merged_res-6 /Users/rajchristhu/Documents/Mvvm_Retrofit_Coroutins_Room_Disys/app/build/intermediates/merged_res/debugAndroidTest
+com.seenu.disys.test.app-androidTest-7 /Users/rajchristhu/Documents/Mvvm_Retrofit_Coroutins_Room_Disys/app/src/androidTest/res
+com.seenu.disys.test.app-androidTestDebug-8 /Users/rajchristhu/Documents/Mvvm_Retrofit_Coroutins_Room_Disys/app/src/androidTestDebug/res
